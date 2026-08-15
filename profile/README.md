@@ -1,4 +1,4 @@
-<img src="https://github.com/amsx-project/amsx-project/blob/main/banner/banner.png" alt="amsx-project banner"></img>
+<img src="https://github.com/amsx-project/.github/blob/main/banner/banner.png" alt="amsx-project banner"></img>
 
 # AMSX-Project
 
